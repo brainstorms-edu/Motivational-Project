@@ -1,0 +1,53 @@
+*{
+    background-color: yellow; 
+     font-family: cursive;
+     text-align: center;
+}
+
+#trust{
+
+   
+    text-align: center;
+    border: 10px solid white;
+    margin-left: 10%;
+
+}
+#messi{
+    text-align: center;
+    border: 10px solid black;
+    margin-left:10%;
+}
+
+#last{ 
+    text-align: center;
+    border:10px solid white;
+   
+    margin-left: 10%;
+    
+}
+
+p{
+    margin:0;
+    font-size:x-large;
+    font-weight: bold;
+  
+    text-transform:capitalize;
+}
+#Con{
+
+
+    text-align: center;
+    border:10px solid black;
+    margin-left: 10%;
+
+}
+#End{
+     text-align: center;
+    border:10px solid white;
+    margin-left: 10%;
+
+}
+div{
+
+    background-color: black;
+}
